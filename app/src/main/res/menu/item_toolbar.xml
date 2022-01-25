@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/it_search"
+        android:icon="@drawable/search_icon"
+        android:title="검색"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/it_chat"
+        android:icon="@drawable/chat_plus_icon2"
+        android:title="검색"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/it_music"
+        android:icon="@drawable/music_icon"
+        android:title="검색"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/it_option"
+        android:icon="@drawable/option_icon3"
+        android:title="검색"
+        app:showAsAction="always"/>
+
+</menu>

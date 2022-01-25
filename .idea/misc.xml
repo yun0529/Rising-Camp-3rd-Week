@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable-anydpi/newchat_back.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/ba_tab_click.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/bottom_icon.xml" value="0.36203703703703705" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/chattext_round_stroke.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/checkbox_circle.xml" value="0.3638888888888889" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/pm_checkbox.xml" value="0.3638888888888889" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/round_stroke.xml" value="0.3712962962962963" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/round_stroke_pm.xml" value="0.3638888888888889" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/drawable/round_white_stroke.xml" value="0.3685185185185185" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/activity_chat1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/activity_main.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/activity_newchat.xml" value="0.33" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/activity_plus_member.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/item_chat_text.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/item_chat_txt.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/item_phone.xml" value="0.33" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/item_plus_member.xml" value="0.31851851851851853" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/listview_footer.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/listview_header.xml" value="0.5" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/layout/longclick_dialog.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/menu/item_bappbar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/3week/app/src/main/res/menu/item_toolbar.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

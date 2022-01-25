@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="350dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/round_white_stroke">
+
+    <Button
+        android:id="@+id/bt_dl_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="채팅방 이름"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#00000000"/>
+
+
+    <Button
+        android:id="@+id/bt_dl_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="채팅방 이름 설정"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bt_dl_title"
+        android:background="#00000000"/>
+    <Button
+        android:id="@+id/bt_dl_bookmark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="즐겨찾기에 추가"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/bt_dl_name"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#00000000"/>
+    <Button
+        android:id="@+id/bt_dl_fixTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="채팅방 상단 고정"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/bt_dl_bookmark"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#00000000"/>
+    <Button
+        android:id="@+id/bt_dl_alarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="채팅방 알림 끄기"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/bt_dl_fixTop"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#00000000"/>
+    <Button
+        android:id="@+id/bt_dl_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="홈 화면에 바로가기 추가"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/bt_dl_alarm"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#00000000"/>
+    <Button
+        android:id="@+id/bt_dl_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="나가기"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/bt_dl_add"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#00000000"
+        android:gravity="start|center_vertical"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="restext">
+        <item>"맥스"</item>
+        <item>"재키"</item>
+        <item>"올리비아"</item>
+        <item>"덴고"</item>
+        <item>"하니"</item>
+        <item>"맥스2"</item>
+        <item>"재키2"</item>
+        <item>"올리비아2"</item>
+        <item>"덴고2"</item>
+        <item>"하니2"</item>
+        <item>"맥스3"</item>
+        <item>"재키3"</item>
+        <item>"올리비아3"</item>
+        <item>"덴고3"</item>
+        <item>"하니3"</item>
+        <item>"맥스4"</item>
+        <item>"재키4"</item>
+        <item>"올리비아4"</item>
+        <item>"덴고4"</item>
+        <item>"하니4"</item>
+        <item>"맥스5"</item>
+        <item>"재키5"</item>
+        <item>"올리비아5"</item>
+        <item>"덴고5"</item>
+        <item>"하니5"</item>
+    </array>
+</resources>
